@@ -37,6 +37,7 @@ class Aplicacion:
         cuadrado = valor1 * valor1
         suma = valor1 + valor2
 
+
         self.label2.configure(text=f"Cuadrado del primer número: {cuadrado}")
         self.label4.configure(text=f"Suma: {suma}")
 
